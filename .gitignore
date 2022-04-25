@@ -5,6 +5,9 @@
 *.so
 *.dylib
 
+# Output binary
+/protoc-gen-go-http-api
+
 # Test binary, built with `go test -c`
 *.test
 
